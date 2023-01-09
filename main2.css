@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+.oneBlock {
+  background-color: aqua;
+  width: 400px;
+  height: 200px;
+  margin: 10px auto;
+  border: 2px dashed red;
+}
+.twoBlock {
+  background-color: yellow;
+  width: 400px;
+  height: 200px;
+  margin: 20px auto;
+  border: 2px dotted red;
+}
+.threeBlock {
+  background-color: aqua;
+  width: 400px;
+  height: 200px;
+  margin: 30px auto;
+  outline: 20px inset blue;
+}
+.fourBlock {
+  background-color: aqua;
+  width: 400px;
+  height: 200px;
+  margin: 30px auto;
+  border-left: 10px solid black;
+}

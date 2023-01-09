@@ -1,0 +1,354 @@
+
+.bigBox {
+  width: 800px;
+  height: 800px;
+  background-color: rgb(247, 217, 171);
+  margin: 10px 10px;
+  border: 2px solid black;
+}
+.headBack {
+  background-color: rgb(168, 149, 74);
+  width: 650px;
+  height: 80px;
+  margin: 30px auto;
+  padding: 10px 10px;
+}
+.head {
+  background-color: rgb(255, 252, 239);
+  width: 400px;
+  height: 40px;
+  margin: 20px auto 20px;
+}
+.headText {
+  padding: 10px 150px;
+}
+.menu {
+  width: 800px;
+  height: 80px;
+}
+.menu p {
+  margin: 0px 36px;
+}
+.greenMenu {
+  background-color: rgb(105, 139, 105);
+  width: 160px;
+  height: 130px;
+  float: left;
+}
+.blueMenu {
+  background-color: rgb(139, 191, 221);
+  width: 160px;
+  height: 130px;
+  float: left;
+}
+.beigeMenu {
+  background-color: rgb(230, 228, 148);
+  width: 160px;
+  height: 130px;
+  float: left;
+}
+.roseMenu {
+  background-color: rgb(231, 121, 121);
+  width: 160px;
+  height: 130px;
+  float: left;
+}
+.violetMenu {
+  background-color: rgb(83, 29, 67);
+  width: 160px;
+  height: 130px;
+  float: left;
+}
+
+.threeBox {
+  background-color: aqua;
+  width: 800px;
+  height: 360px;
+  margin: 0px;
+}
+.greenText {
+  background-color: rgb(12, 102, 4);
+  width: 266.67px;
+  height: 360px;
+  margin: 0px;
+  float: left;
+}
+.greyBox {
+  background-color: gray;
+  width: 100px;
+  height: 50px;
+  margin: 10px auto 20px;
+  padding: 1px;
+}
+.greyBox p {
+  margin-left: 35px;
+}
+.redinGreen {
+  background-color: rgb(114, 21, 21);
+  width: 90px;
+  height: 50px;
+  margin: 10px auto 0px;
+}
+.redinGreen p {
+  margin-left: 45px;
+}
+.roseinGreen {
+  background-color: rgb(255, 113, 113);
+  width: 45px;
+  height: 228px;
+  margin: 0px 0px auto 88px;
+  float: left;
+}
+.roseinGreen p {
+  margin-left: 20px;
+}
+.beigeinGreen {
+  background-color: rgb(211, 223, 143);
+  width: 45px;
+  height: 228px;
+  margin: 0px 0px;
+  float: left;
+}
+.beigeinGreen p {
+  margin-left: 20px;
+}
+.greenA {
+  background-color: rgb(44, 110, 87);
+  width: 266.67px;
+  height: 360px;
+  float: left;
+}
+.greenA p {
+  padding-left: 120px;
+  margin: 0px 0px;
+}
+.greenB {
+  background-color: rgb(82, 255, 195);
+  width: 88.89px;
+  height: 342px;
+  float: left;
+}
+.greenB p {
+  padding-left: 40px;
+  margin: 0px 0px;
+}
+.greenB1 {
+  background-color: rgb(245, 72, 72);
+  width: 44.44px;
+  height: 208px;
+  float: left;
+  margin-top: 116px;
+}
+.greenB1 p {
+  padding-left: 15px;
+  margin: 0px 0px;
+}
+
+.greenB2 {
+  background-color: rgb(187, 255, 0);
+  width: 44.45px;
+  height: 108px;
+  float: left;
+  margin-top: 216px;
+}
+.greenB2 p {
+  padding-left: 15px;
+  margin: 0px 0px;
+}
+.greenC {
+  background-color: rgb(193, 214, 207);
+  width: 88.89px;
+  height: 342px;
+  float: left;
+}
+.greenC p {
+  padding-left: 31px;
+  margin: 0px 0px;
+}
+.greenC2 {
+  background-color: rgb(41, 1, 134);
+  width: 88.89px;
+  height: 214px;
+  margin-top: 60px;
+}
+.greenC3 {
+  background-color: rgb(77, 2, 92);
+  width: 88.89px;
+  height: 186px;
+  margin-top: 60px;
+}
+.greenC4 {
+  background-color: rgb(239, 208, 245);
+  width: 44.44px;
+  height: 88px;
+  margin-top: 80px;
+  float: left;
+}
+
+.greenC4 p {
+  padding-left: 14px;
+}
+
+.greenC5 {
+  background-color: rgb(197, 96, 56);
+  width: 44.44px;
+  height: 88px;
+  margin-top: 80px;
+  float: left;
+}
+
+.greenC5 p {
+  padding-left: 14px;
+}
+.greenD {
+  background-color: rgb(67, 182, 144);
+  width: 88.89px;
+  height: 342px;
+  float: left;
+}
+.greenD p {
+  padding-left: 34px;
+}
+.greenD1 {
+  background-color: rgb(26, 114, 78);
+  width: 88.89px;
+  height: 214px;
+  margin-top: 60px;
+}
+.greenD3 {
+  background-color: rgb(248, 236, 126);
+  width: 88.89px;
+  height: 186px;
+  margin-top: 60px;
+}
+.greenD3 img {
+  height: 50px;
+  width: 50px;
+  padding-left: 20px;
+}
+.greenRome {
+  background-color: rgb(44, 110, 87);
+  width: 266.67px;
+  height: 360px;
+  float: left;
+}
+.romeI {
+  background-color: rgb(135, 184, 79);
+  width: 88.89px;
+  height: 18px;
+  float: left;
+}
+.romeI p {
+  margin: 0px;
+  padding-left: 44px;
+}
+.romeII {
+  background-color: rgb(184, 79, 119);
+  width: 88.89px;
+  height: 18px;
+  float: left;
+}
+.romeII p {
+  margin: 0px;
+  padding-left: 40px;
+}
+.romeIII {
+  background-color: rgb(243, 121, 8);
+  width: 88.89px;
+  height: 18px;
+  float: left;
+}
+.romeIII p {
+  margin: 0px;
+  padding-left: 40px;
+}
+
+.figureI {
+  background-color: rgb(236, 231, 186);
+  width: 266.67px;
+  height: 18px;
+  margin-top: 18px;
+  padding: 30px 0px;
+}
+.figureII {
+  background-color: rgb(255, 0, 0);
+  width: 90px;
+  height: 20px;
+  margin: 0px 90px;
+  padding: 5px 0px;
+}
+.figureIII {
+  background-color: rgb(7, 6, 6);
+  width: 30px;
+  height: 4px;
+  margin: 21px 30px;
+}
+.romeIV {
+  background-color: rgb(145, 144, 137);
+  width: 266.67px;
+  height: 60px;
+  margin-top: 18px;
+  
+}
+.romeIV p {
+  margin: 0px;
+  padding-left: 134px;
+}
+.romeVII {
+  background-color: rgb(21, 73, 41);
+  width: 88.89px;
+  height: 204px;
+  float: left;
+}
+.romeVII p {
+  margin: 0px;
+  padding-left: 38px;
+}
+.romeVIII {
+  background-color: rgb(61, 70, 64);
+  width: 177.78px;
+  height: 204px;
+  float: left;
+}
+
+.romeVIII p {
+  margin: 0px;
+  padding-left: 83px;
+}
+.romeIX {
+  background-color: rgb(58, 10, 80);
+  width: 88.89px;
+  height: 80px;
+  float: left;
+  margin-top: 40px;
+}
+.romeIX p {
+  margin: 0px;
+  padding-left: 34px;
+}
+.romeX {
+  background-color: blanchedalmond;
+  width: 88.8px;
+  height: 80px;
+  float: left;
+  margin-top: 40px;
+}
+.romeX p {
+  margin: 0px;
+  padding-left: 40px;
+}
+.romeXI {
+  background-color: rgb(146, 116, 116);
+  width: 177.78px;
+  height: 66px;
+  float: left;
+}
+.basement {
+  background-color: rgb(75, 75, 75);
+  width: 800px;
+  height: 184px;
+}
+.basement p {
+  argin: 0px;
+  padding-left: 360px;
+}
